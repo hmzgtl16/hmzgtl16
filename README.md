@@ -1,4 +1,4 @@
-# Hamza | Android Developer
+# Hamza GATTAL | Android Developer
 
 Android developer focused on building clean, modern, and maintainable mobile applications.  
 I enjoy working with thoughtful architecture and UI that stays readable and scalable over time.
