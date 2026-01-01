@@ -32,4 +32,5 @@ Git · GitHub · Docker
 
 - *[Email](mailto:hamza.gattal.16@gmail.com)*
 - *[LinkedIn](https://www.linkedin.com/in/hmzgtl16/)*
-- *[GitHub](https://github.com/hmzgtl16)*
+- *[GitHub](https://github.com/hmzgtl16/)*
+- *[Portfolio](https://hmzgtl16.github.io/portfolio/)*
