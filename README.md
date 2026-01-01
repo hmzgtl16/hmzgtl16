@@ -30,6 +30,6 @@ Git · GitHub · Docker
 
 ## Let’s Connect
 
-- *([Email](mailto:hamza.gattal.16@gmail.com))*
-- *([LinkedIn](https://www.linkedin.com/in/hmzgtl16/))*
-- *([GitHub](https://github.com/hmzgtl16))*
+- *[Email](mailto:hamza.gattal.16@gmail.com)*
+- *[LinkedIn](https://www.linkedin.com/in/hmzgtl16/)*
+- *[GitHub](https://github.com/hmzgtl16)*
